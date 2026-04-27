@@ -1,6 +1,6 @@
 ---
 name: gimp-inkscape
-description: Create and manipulate images using GIMP, Inkscape, ImageMagick, FFmpeg, ExifTool, OptiPNG, jpegoptim, and pdftoppm via CLI. Use for: resizing, cropping, compositing, text overlays, watermarks, color correction, format conversion, WebP export, SVG creation, SVG-to-PNG export, OG images, social banners, logo manipulation, batch processing, lossless compression, metadata read/strip, GIF creation, animation, PDF-to-image. Triggers: gimp, inkscape, imagemagick, resize image, crop image, convert image, svg to png, add text to image, watermark, composite, image editing, banner, social card, compress image, strip metadata, gif, pdf to image, webp.
+description: "Create and manipulate images using GIMP, Inkscape, ImageMagick, FFmpeg, ExifTool, OptiPNG, jpegoptim, and pdftoppm via CLI. Use for: resizing, cropping, compositing, text overlays, watermarks, color correction, format conversion, WebP export, SVG creation, SVG-to-PNG export, OG images, social banners, logo manipulation, batch processing, lossless compression, metadata read/strip, GIF creation, animation, PDF-to-image. Triggers: gimp, inkscape, imagemagick, resize image, crop image, convert image, svg to png, add text to image, watermark, composite, image editing, banner, social card, compress image, strip metadata, gif, pdf to image, webp."
 allowed-tools: Bash(gimp *), Bash(inkscape *), Bash(convert *), Bash(mogrify *), Bash(identify *), Bash(ffmpeg *), Bash(exiftool *), Bash(optipng *), Bash(jpegoptim *), Bash(pdftoppm *)
 ---
 
